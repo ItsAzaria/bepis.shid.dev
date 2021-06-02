@@ -1,0 +1,7 @@
+* {
+    cursor: url(/assets/images/bepis.png), auto !important;
+}
+
+body {
+    min-height: 100vh;
+}
